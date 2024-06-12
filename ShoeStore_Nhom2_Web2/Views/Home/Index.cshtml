@@ -1,0 +1,229 @@
+﻿@model List<Shoe_Model>
+
+<!-- start banner Area -->
+	<style>
+		.add-btn i{
+			color:white
+		}
+	</style>
+<section class="banner-area">
+	<div class="container">
+		<div class="row fullscreen align-items-center justify-content-start">
+			<div class="col-lg-12">
+				<div class="active-banner-slider owl-carousel">
+					<!-- single-slide -->
+					<div class="row single-slide align-items-center d-flex">
+						<div class="col-lg-5 col-md-6">
+							<div class="banner-content">
+								<h1>Cửa hàng giày - Nhóm 2</h1>
+								<p>
+								Chúng tôi đem đến cho bạn những mẫu giày chất lượng và chính hãng với giá cả phải chăng!
+								</p>
+								@{
+									var token = ViewData["Token"];
+								}
+								<p>Token:</p>
+								@if(token != null)
+								{
+									<p>Token: @token</p>
+								}
+								<div class="add-bag d-flex align-items-center">
+									<a class="add-btn" href=""><i class="fas fa-shopping-cart"></i></a>
+									<span class="add-text text-uppercase">Shoping now</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-7">
+							<div class="banner-img">
+								<img class="img-fluid" src="~/img/banner/banner-img.png" alt="">
+							</div>
+						</div>
+					</div>
+					<!-- single-slide -->
+					<div class="row single-slide align-items-center d-flex">
+						<div class="col-lg-5">
+							<div class="banner-content">
+								<h1>Cửa hàng giày - Nhóm 2</h1>
+								<p>
+									Sự hài lòng của bạn là niềm hạnh phúc của chúng tôi, hãy duyệt qua các sản phẩm của chúng tôi !
+								</p>
+								<div class="add-bag d-flex align-items-center">
+									<a class="add-btn" href=""><i class="fas fa-shopping-cart"></i></a>
+									<span class="add-text text-uppercase">Shoping now</span>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-7">
+							<div class="banner-img">
+								<img class="img-fluid" src="img/banner/banner-img.png" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End banner Area -->
+<!-- start features Area -->
+<section class="features-area section_gap">
+	<div class="container">
+		<div class="row features-inner">
+			<!-- single features -->
+			<div class="col-lg-3 col-md-6 col-sm-6">
+				<div class="single-features">
+					<div class="f-icon">
+						<img src="img/features/f-icon1.png" alt="">
+					</div>
+					<h6>Giao hàng miễn phí</h6>
+					<p>Miễn phí giao hàng tất cả sản phẩm</p>
+				</div>
+			</div>
+			<!-- single features -->
+			<div class="col-lg-3 col-md-6 col-sm-6">
+				<div class="single-features">
+					<div class="f-icon">
+						<img src="img/features/f-icon2.png" alt="">
+					</div>
+					<h6>Chính sách trả hàng</h6>
+					<p>Trà hàng khi không đúng yêu cầu</p>
+				</div>
+			</div>
+			<!-- single features -->
+			<div class="col-lg-3 col-md-6 col-sm-6">
+				<div class="single-features">
+					<div class="f-icon">
+						<img src="img/features/f-icon3.png" alt="">
+					</div>
+					<h6>CSKH 24/7</h6>
+					<p>Luôn luôn online</p>
+				</div>
+			</div>
+			<!-- single features -->
+			<div class="col-lg-3 col-md-6 col-sm-6">
+				<div class="single-features">
+					<div class="f-icon">
+						<img src="img/features/f-icon4.png" alt="">
+					</div>
+					<h6>Bảo mật thanh toán</h6>
+					<p>Thanh toán an toànr</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- end features Area -->
+<!-- start product Area -->
+<section class="owl-carousel active-product-area section_gap">
+	<!-- single product slide -->
+	<div class="single-product-slider">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-6 text-center">
+					<div class="section-title">
+						<h1>Mới</h1>
+						<p>
+							Sản phẩm mới nhất của chúng tôi
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				@foreach (var shoe in Model)
+				{
+					<div class="col-lg-3 col-md-6">
+						<div class="single-product">
+							<a asp-controller="Shop" asp-action="Detail" asp-route-id="@shoe.Id">
+								<img class="img-fluid" src="~/@shoe.ImageUrl" alt="@shoe.Name">
+							</a>							
+							<div class="product-details">
+								<h6>@shoe.Name</h6>
+								<div class="price">
+									<h6>@shoe.Price.ToString("C")</h6>
+									<h6 class="l-through">@shoe.Old_Price.ToString("C")</h6>
+								</div>
+							</div>
+						</div>
+					</div>
+				}
+			</div>
+		</div>
+	</div>
+	<!-- single product slide -->
+	<div class="single-product-slider">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-6 text-center">
+					<div class="section-title">
+						<h1>Phổ biến</h1>
+						<p>
+							Sản phẩm phổ biến của chúng tôi
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				@foreach (var shoe in Model)
+				{
+					<div class="col-lg-3 col-md-6">
+						<div class="single-product">
+							<a asp-controller="Shop" asp-action="Detail" asp-route-id="@shoe.Id">
+								<img class="img-fluid" src="~/@shoe.ImageUrl" alt="@shoe.Name">
+							</a>							
+							<div class="product-details">
+								<h6>@shoe.Name</h6>
+								<div class="price">
+									<h6>@shoe.Price.ToString("C")</h6>
+									<h6 class="l-through">@shoe.Old_Price.ToString("C")</h6>
+								</div>
+								<div class="prd-bottom">
+									<a href="" class="social-info">
+										<span class="ti-bag"></span>
+										<p class="hover-text">add to bag</p>
+									</a>
+									<a asp-controller="Home" asp-action="Index" asp-route-Index="@shoe.Brand" class="social-info">
+										<span class="lnr lnr-move"></span>
+										<p class="hover-text">view more</p>
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				}
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- end product Area -->
+
+<!-- Start brand Area -->
+<section class="brand-area section_gap">
+	<div class="text-center">
+		<h3>
+			Các thương hiệu giày.
+		</h3>
+	</div>
+	<br />
+	<div class="container">
+		<div class="row">
+			<a class="col single-img" href="#">
+				<img class="img-fluid d-block mx-auto" src="~/img/ConverseBrand.jpg" alt="">
+			</a>
+			<a class="col single-img" href="#">
+				<img class="img-fluid d-block mx-auto" src="~/img/SupremeBrand.png" alt="">
+			</a>
+			<a class="col single-img" href="#">
+				<img class="img-fluid d-block mx-auto" src="~/img/NikeBrand.jpg" alt="">
+			</a>
+			<a class="col single-img" href="#">
+				<img class="img-fluid d-block mx-auto" src="~/img/AdidasBrand.jpg" alt="">
+			</a>
+			<a class="col single-img" href="#">
+				<img class="img-fluid d-block mx-auto" src="~/img/PumaBrand.jpg" alt="">
+			</a>
+		</div>
+	</div>
+</section>
+<!-- End brand Area -->

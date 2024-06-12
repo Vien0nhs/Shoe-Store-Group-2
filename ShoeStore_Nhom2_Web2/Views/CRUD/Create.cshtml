@@ -1,0 +1,41 @@
+﻿@model Shoe_Model
+<section class="banner-area organic-breadcrumb">
+    <h1>Create New Shoe</h1>
+
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label asp-for="ImageUrl"></label>
+            <input asp-for="ImageUrl" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Price"></label>
+            <input asp-for="Price" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Old_Price"></label>
+            <input asp-for="Old_Price" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Brand"></label>
+            <input asp-for="Brand" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Color"></label>
+            <input asp-for="Color" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Size"></label>
+            <input asp-for="Size" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Remaining"></label>
+            <input asp-for="Remaining" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</section>

@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ShoeStore_Nhom2_Web2
+build_property.RootNamespace = ShoeStore_Nhom2_Web2
+build_property.ProjectDir = D:\VIEN\HK6\Web 2\ShoeStore_Nhom2_Web2\ShoeStore_Nhom2_Web2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\VIEN\HK6\Web 2\ShoeStore_Nhom2_Web2\ShoeStore_Nhom2_Web2
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/CRUD/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1JVRFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/CRUD/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1JVRFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/CRUD/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1JVRFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/CRUD/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1JVRFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/CRUD/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ1JVRFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shop/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shop/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shop/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shop/ConFirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxDb25GaXJtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shop/ConTact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxDb25UYWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shop/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shop/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shop/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VIEN/HK6/Web 2/ShoeStore_Nhom2_Web2/ShoeStore_Nhom2_Web2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-66c540p0ys

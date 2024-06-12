@@ -1,0 +1,81 @@
+﻿@model List<Shoe_Model>
+<style>
+    .primary-btn a {
+        color: white;
+    }
+
+    .primary-btn {
+        border:none;
+    }
+    .banner-area{
+        color:black;
+    }
+</style>
+<section class="banner-area organic-breadcrumb">
+
+    <br />
+    <br />
+    <br />
+    <a asp-action="Create">
+        <button class="primary-btn">
+
+            Create New Shoe
+        </button>
+    </a>
+
+
+    <br />
+    <br />
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Image Url</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Old Price</th>
+                <th>Brand</th>
+                <th>Color</th>
+                <th>Size</th>
+                <th>Remaining</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                @foreach (var shoe in Model)
+                {
+                    <tr>
+                        <td>@shoe.Id</td>
+                        <td> <img src="@shoe.ImageUrl" alt="@shoe.ImageUrl" style="border-radius:25%"; width="100" height="100"/> </td>
+                        <td>@shoe.Name</td>
+                        <td>@shoe.Price</td>
+                        <td>@shoe.Old_Price</td>
+                        <td>@shoe.Brand</td>
+                        <td>@shoe.Color</td>
+                        <td>@shoe.Size</td>
+                        <td>@shoe.Remaining</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@shoe.Id">
+                                <button class="primary-btn">
+                                    Edit
+                                </button>
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@shoe.Id">
+                                <button class="primary-btn">
+                                    Delete
+                                </button>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            }
+
+        </tbody>
+    </table>
+
+
+
+</section>

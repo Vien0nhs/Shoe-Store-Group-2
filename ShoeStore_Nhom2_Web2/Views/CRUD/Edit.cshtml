@@ -1,0 +1,44 @@
+﻿@model Shoe_Model
+<section class="banner-area organic-breadcrumb">
+    <h1>Edit Shoe</h1>
+
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <label asp-for="ImageUrl"></label>
+            <input asp-for="ImageUrl" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Price"></label>
+            <input asp-for="Price" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Old_Price"></label>
+            <input asp-for="Old_Price" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Brand"></label>
+            <input asp-for="Brand" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Color"></label>
+            <input asp-for="Color" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Size"></label>
+            <input asp-for="Size" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Remaining"></label>
+            <input asp-for="Remaining" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Save Changes</button>
+    </form>
+
+    <a asp-action="Index">Back to List</a>
+
+</section>
