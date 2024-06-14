@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|solutionrelative:shoestore_nhom2_web2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2_api\\controllers\\shoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|solutionrelative:shoestore_nhom2_web2_api\\controllers\\shoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|solutionrelative:shoestore_nhom2_web2_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|solutionrelative:shoestore_nhom2_web2\\views\\crud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2_api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|solutionrelative:shoestore_nhom2_web2_api\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2_api\\controllers\\shoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|solutionrelative:shoestore_nhom2_web2_api\\controllers\\shoecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7220A2F-D10D-4BD9-BA84-BC32F1958DA2}|ShoeStore_Nhom2_Web2_API\\ShoeStore_Nhom2_Web2_API.csproj|solutionrelative:shoestore_nhom2_web2_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2\\repositories\\adminshoerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|solutionrelative:shoestore_nhom2_web2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|solutionrelative:shoestore_nhom2_web2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{552B2FC2-D352-4634-B29F-D944D4CEFF5D}|ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2.csproj|d:\\vien\\hk6\\web 2\\shoestore_nhom2_web2\\shoestore_nhom2_web2\\views\\shop\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -274,17 +274,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ShoeController.cs",
               "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Controllers\\ShoeController.cs",
               "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Controllers\\ShoeController.cs",
               "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Controllers\\ShoeController.cs",
               "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Controllers\\ShoeController.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAgwGwAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T05:52:46.25Z",
               "IsPinned": true,
@@ -292,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ShopController.cs",
               "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Controllers\\ShopController.cs",
@@ -301,8 +301,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T02:30:56.653Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -319,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CRUDController.cs",
               "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Controllers\\CRUDController.cs",
               "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Controllers\\CRUDController.cs",
@@ -328,12 +327,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T06:40:03.789Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Controllers\\UserController.cs",
@@ -342,12 +340,11 @@
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T03:11:30.715Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Views\\Shared\\_Layout.cshtml",
@@ -357,201 +354,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T02:18:14.08Z",
               "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShoeRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\ShoeRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\ShoeRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\ShoeRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\ShoeRepository.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAkwEsAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:42:31.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\CRUD\\Create.cshtml",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Views\\CRUD\\Create.cshtml",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\CRUD\\Create.cshtml",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Views\\CRUD\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T06:42:18.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IShoeRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\IShoeRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\IShoeRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\IShoeRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\IShoeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:41:59.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAdminShoeRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\IAdminShoeRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Repositories\\IAdminShoeRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\IAdminShoeRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Repositories\\IAdminShoeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:58:28.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AdminShoeRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\AdminShoeRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Repositories\\AdminShoeRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\AdminShoeRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Repositories\\AdminShoeRepository.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAYwDgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:59:02.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\IUserRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:46:05.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\CRUD\\Delete.cshtml",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Views\\CRUD\\Delete.cshtml",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\CRUD\\Delete.cshtml",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Views\\CRUD\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-01T07:34:42.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T02:25:57.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TokenRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\TokenRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\TokenRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\TokenRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\TokenRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwAUAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T03:18:29.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ITokenRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\ITokenRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\ITokenRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\ITokenRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\ITokenRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T03:16:36.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Program.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Program.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Program.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T06:28:21.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IShopRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\IShopRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Repositories\\IShopRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\IShopRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Repositories\\IShopRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:49:25.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ShopRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\ShopRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Repositories\\ShopRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\ShopRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Repositories\\ShopRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:50:03.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\UserRepository.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T00:46:39.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Program.cs",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Program.cs",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Program.cs",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T05:49:53.339Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -571,6 +373,199 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAiwMcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T02:21:15.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\CRUD\\Create.cshtml",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Views\\CRUD\\Create.cshtml",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\CRUD\\Create.cshtml",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Views\\CRUD\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T06:42:18.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoeRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\ShoeRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\ShoeRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\ShoeRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\ShoeRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAkwEsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:42:31.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShoeRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\IShoeRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\IShoeRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\IShoeRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\IShoeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:41:59.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAdminShoeRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\IAdminShoeRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Repositories\\IAdminShoeRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\IAdminShoeRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Repositories\\IAdminShoeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:58:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminShoeRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\AdminShoeRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Repositories\\AdminShoeRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\AdminShoeRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Repositories\\AdminShoeRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:59:02.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:46:05.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\CRUD\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Views\\CRUD\\Delete.cshtml",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\CRUD\\Delete.cshtml",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Views\\CRUD\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T07:34:42.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:25:57.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\TokenRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\TokenRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T03:18:29.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\ITokenRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\ITokenRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\ITokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T03:16:36.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Program.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Program.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Program.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T06:28:21.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IShopRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\IShopRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Repositories\\IShopRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\IShopRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Repositories\\IShopRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:49:25.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\ShopRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Repositories\\ShopRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Repositories\\ShopRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Repositories\\ShopRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:50:03.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:46:39.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Program.cs",
+              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2_API\\Program.cs",
+              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Program.cs",
+              "RelativeToolTip": "ShoeStore_Nhom2_Web2_API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T05:49:53.339Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 23,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2_API\\Controllers\\WeatherForecastController.cs",
@@ -580,18 +575,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T06:02:42.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ShoeStore_Nhom2_Web2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\VIEN\\HK6\\Web 2\\ShoeStore_Nhom2_Web2\\ShoeStore_Nhom2_Web2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ShoeStore_Nhom2_Web2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAiwI8AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T02:21:15.033Z"
             },
             {
               "$type": "Document",
